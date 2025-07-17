@@ -12,4 +12,4 @@ Este é um projeto simples para demonstrar como hospedar um site estático na AW
 Este projeto foi realizado após a certificação **AWS Cloud Practitioner**.
 
 ## Como acessar:
-- [Link para o meu site na AWS](https://link-para-o-seu-site.com)
+- [(https://d1uk3a1tqte4pn.cloudfront.net/)]
